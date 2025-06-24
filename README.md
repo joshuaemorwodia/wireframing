@@ -65,3 +65,59 @@ Some popular tools used for wireframing include:
 
 Wireframing is an essential part of any digital project. It simplifies ideas, improves communication, and ensures everyone is on the same page before development begins.
 Added wireframe key elements section
+## Types of Wireframes
+
+Wireframes can be created at different levels of detail depending on the stage of the design process. The two main types are:
+
+### 1. Low-Fidelity Wireframes
+
+Low-fidelity (low-fi) wireframes are **basic and simple sketches** of the layout. They are often created quickly by hand or using simple tools.
+
+**Characteristics:**
+- Focus on layout and structure
+- No colors, fonts, or images
+- Uses placeholders like boxes and lines
+- Often black and white
+
+**When to Use:**
+- During brainstorming or early planning stages
+- When validating ideas quickly
+- For sharing rough concepts with the team
+
+**Example:**
+- A hand-drawn sketch of a homepage showing where the header, text, and buttons will go.
+
+### 2. High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are **more detailed and closer to the final design**. They often include actual content, font styles, spacing, and sometimes even interactions.
+
+**Characteristics:**
+- Looks similar to the real product
+- Includes images, text, colors, and UI elements
+- Can show user interactions or workflows
+
+**When to Use:**
+- Later in the design process
+- Before prototyping or development
+- When presenting to stakeholders or clients
+
+**Example:**
+- A Figma or Adobe XD mockup showing exactly how the final page will look.
+
+---
+
+## What Type of Wireframe is This?
+
+> 📝 _Note: Add a screenshot or link to your wireframe here for reference._
+
+Based on the appearance and level of detail in the wireframe shown, this is a:
+
+**👉 Low-Fidelity Wireframe**
+
+**Why?**
+- It uses simple boxes and lines to represent layout.
+- It does not include colors, images, or detailed text.
+- It focuses only on structure and content placement.
+
+> As you refine the design later, you can upgrade it into a high-fidelity wireframe.
+
