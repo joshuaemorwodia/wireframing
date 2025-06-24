@@ -193,5 +193,44 @@ In summary, wireframing helps software teams:
 - Communicate clearly with stakeholders
 
 It’s a smart first step for any successful development project.
+## Real-World Scenario: Identifying Usability Issues with Wireframing
+
+### 🧩 The Scenario
+
+A startup was building a **hotel booking app** with features like user registration, property search, and booking confirmation. During the wireframing stage, designers created a series of screens including the homepage, search results, property detail, and checkout flow.
+
+When the wireframes were reviewed by the product team and testers, several **usability issues** were discovered early:
+
+1. **Cluttered search filters:** The filter section had too many options crammed into a small area, which overwhelmed users.
+2. **Missing call-to-action:** On the property detail page, the “Book Now” button was placed too low on the screen and wasn't visible without scrolling.
+3. **Unclear navigation:** Users weren’t sure how to return to search results after viewing a property.
+
+### 🛠️ How the Issues Were Resolved
+
+- The filters were **grouped into categories** with collapsible menus to simplify the interface.
+- The “Book Now” button was moved to a **fixed position** on the screen so it stayed visible.
+- A clear “Back to Results” link was added at the top of the property page.
+
+These changes were all made at the **wireframe level**, which took minutes—not days—and saved the team from costly redesign and re-coding later in development.
+
+### ✅ Impact on the Final Product
+
+By catching these issues early:
+- The app became more intuitive and user-friendly.
+- Development was faster and smoother since the UI and flow were already validated.
+- Users gave positive feedback during testing because the flow felt natural and easy to navigate.
+
+---
+
+## 🎯 Final Thoughts: The Role of Wireframing
+
+Wireframing plays a critical role in ensuring a **user-centered design** by allowing teams to:
+
+- Spot problems before they become expensive to fix
+- Test layouts and flows early
+- Align everyone on the same vision
+
+Whether you're building a simple website or a full mobile app, wireframing is a **low-cost, high-impact step** that leads to better products and happier users.
+
 
 
