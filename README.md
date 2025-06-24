@@ -108,16 +108,19 @@ High-fidelity (hi-fi) wireframes are **more detailed and closer to the final des
 
 ## What Type of Wireframe is This?
 
-> 📝 _Note: Add a screenshot or link to your wireframe here for reference._
+## What Type of Wireframe is This?
 
-Based on the appearance and level of detail in the wireframe shown, this is a:
+![Wireframe Preview](./Screenshot%202025-06-24%20135725.png)
 
-**👉 Low-Fidelity Wireframe**
+Based on the layout, color usage, and detail in this wireframe, this is a:
 
-**Why?**
-- It uses simple boxes and lines to represent layout.
-- It does not include colors, images, or detailed text.
-- It focuses only on structure and content placement.
+**👉 High-Fidelity Wireframe**
 
-> As you refine the design later, you can upgrade it into a high-fidelity wireframe.
+**Reasons:**
+- It uses actual images, fonts, and design elements.
+- Includes multiple screens with detailed navigation.
+- Looks very similar to the final product design.
+
+High-fidelity wireframes like this are ideal for stakeholder presentations, user testing, and guiding developers during implementation.
+
 
